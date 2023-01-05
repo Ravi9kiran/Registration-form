@@ -1,0 +1,31 @@
+#qwe{
+    text-align: left;
+    display: inline-block;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#asd{
+    text-align: left;
+    display: inline-block;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#zxc{
+    text-align: left;
+    display: inline-block;
+    color: rgba(255, 166, 0, 0.613);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    width: 250px;
+    margin: 20px;
+}
+h1{
+    background: linear-gradient(45deg,white,white,red);
+    color: red;
+    width: 510px;
+    padding-right: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+}

@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/beautiful-big-drinking-water-droplets-light-blue-background-bright-blue-background-abstract-water-droplets-blue-194988585.jpg);
+    color: blue;
+    text-align: center;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150px;
+}
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+button{
+    width: 100px;
+    color: dodgerblue;
+    border: 2px solid dodgerblue;
+    border-radius: 5px;
+}
